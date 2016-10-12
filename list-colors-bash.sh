@@ -76,12 +76,6 @@ LS_COLORS="$DIRECTORY $SYMLINK $SOCKET $PIPE $EXECUTABLE $BLOCK_SPECIAL $CHARACT
 # Scientist: "You know, you repeat yourself sometimes"
 LS_COLORS="$LS_COLORS $EXECUTABLE_SETUID $EXECUTABLE_SETGID $DW_WITH_T $DW_WITHOUT_T"
 
-
-# READABLE_LS_COLORS=Ex|Fx|Bx|Dx|Cx|eg|ed|ab|ag|ac|ad
-# READABLE_LS_COLORS=gxCexxxxxxxx
-# READABLE_LS_COLORS=gxCefXfXbgGxGxbxfxHXHX
-# READABLE_LS_COLORS=fxCecxdxBx
-
 # ok we put the 10lbs of shit in the 5lb bag but we need to
 # make that space delimited string usable by the shell
 # oh ya and export that shit so your ls output will be pretty
